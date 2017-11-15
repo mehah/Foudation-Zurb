@@ -2,9 +2,9 @@ package foundation.zurb.com;
 
 import com.jQuery.JQuery;
 
-import greencode.jscript.DOMHandle;
-import greencode.jscript.dom.Node;
-import greencode.jscript.dom.Window;
+import com.jrender.jscript.DOMHandle;
+import com.jrender.jscript.dom.Node;
+import com.jrender.jscript.dom.Window;
 
 public class Foundation extends JQuery {
 
